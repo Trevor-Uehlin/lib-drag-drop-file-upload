@@ -1,0 +1,18 @@
+/* Drag And Drop Styles */
+.highlight {
+    background-color: lightgreen !important;
+}
+
+.upload-button {
+    min-width: 10%;
+    min-height: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+input[type="file"] {
+
+    margin: 0 auto;
+}

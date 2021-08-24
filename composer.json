@@ -1,0 +1,14 @@
+{
+    "name": "trevor-uehlin/lib-drag-drop-file-upload",
+    "description": "A drag and drop file uploader.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "trevor-uehlin",
+            "email": "uehlin.trevor@gmail.com"
+        }
+    ],
+    "require":{
+        "composer/installers":"~1.0"
+    }
+}
